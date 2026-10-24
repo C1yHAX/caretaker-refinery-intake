@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "changes": [
+    {
+      "package": "/Game/Blueprints/Modules/Generators/BP_Module_DieselGenerator",
+      "component": "VoyageInventoryWeightLimited_GEN_VARIABLE",
+      "property": "bAllowBeyondWeightLimit",
+      "before": false,
+      "after": true
+    },
+    {
+      "package": "/Game/Blueprints/Modules/Generators/BP_Module_PetrolGenerator_Portable",
+      "component": "VoyageInventoryWeightLimited_GEN_VARIABLE",
+      "property": "bAllowBeyondWeightLimit",
+      "before": false,
+      "after": true
+    }
+  ]
+}

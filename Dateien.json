@@ -1,0 +1,17 @@
+[
+  {
+    "path": "Voyage/Content/Paks/~mods/CaretakerRefineryIntake/CaretakerRefineryIntake_P.pak",
+    "bytes": 347,
+    "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+  },
+  {
+    "path": "Voyage/Content/Paks/~mods/CaretakerRefineryIntake/CaretakerRefineryIntake_P.ucas",
+    "bytes": 115693,
+    "sha256": "b343f76478ac0749fac137bda4d7b9ab33d20f8b642378465f2a8d9442f7ae1a"
+  },
+  {
+    "path": "Voyage/Content/Paks/~mods/CaretakerRefineryIntake/CaretakerRefineryIntake_P.utoc",
+    "bytes": 612,
+    "sha256": "d1b86e07fc93739c3bb41c32d3e0b8cc6438a7e5dbc36960e6d8508c213d6dae"
+  }
+]

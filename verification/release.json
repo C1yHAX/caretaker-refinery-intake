@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "gameVersion": "0.10.0.653173",
+  "steamBuild": "25982825",
+  "runtimeFiles": 3,
+  "nativeGameStartedForPublication": false,
+  "privateSettingsIncluded": false,
+  "installPayloadComparedToPrevious": true,
+  "differences": [],
+  "offlineTests": "not applicable; prebuilt asset containers",
+  "longTermGameplay": "not fully verified",
+  "containerVerification": "passed"
+}

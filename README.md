@@ -60,3 +60,7 @@ Die fertig gepackten Container und die genaue Änderungsspezifikation sind entha
 ## English
 
 Removes the organic-input weight admission cap from the stock Diesel Refinery and Portable Petrol Refinery. Production rates, resource costs, electricity requirements and liquid buffers stay unchanged. Caretaker Energy already applies the equivalent change to its additional stationary petrol refinery. Requires game build 0.10.0.653173 / 25982825; no UE4SS or AssetBridge required. Close the game and copy the release ZIP's `Voyage` folder into the game installation directory. Already included in the full Caretaker modpack. Conflicts are possible with other mods replacing the same two blueprints. Long-term save/reload behavior with large inventories has not been fully tested.
+
+## Inhalt des Mod-Downloads
+
+Das Release-ZIP enthält ausschließlich die zum Betrieb benötigten Moddateien in der `Voyage`-Ordnerstruktur. Anleitung, Änderungslisten, Lizenztexte, Drittanbieterhinweise, Entwicklungswerkzeuge und Prüfberichte bleiben im Repository bzw. auf der Release-Seite. Sie werden nicht mit ins Mod-ZIP gepackt. Die Prüfsumme ist ein separater Download. Version bleibt **1.0.0**.
